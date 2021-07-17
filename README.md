@@ -1,0 +1,1 @@
+Prácticas de ASM realizadas en CISCA y finalmente en x86. Cada fichero resuelve una actividad propuesta. Habitualmente las actividades son propuestas en lenguaje C.
